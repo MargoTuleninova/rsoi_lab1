@@ -1,0 +1,46 @@
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\bin\Debug\lab1.exe.config
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\bin\Debug\lab1.exe
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\bin\Debug\lab1.pdb
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csprojResolveAssemblyReference.cache
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.AutenticationForm.resources
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csproj.GenerateResource.Cache
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\obj\Debug\lab1.exe
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\obj\Debug\lab1.pdb
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.dll
+c:\users\олеган\documents\visual studio 2015\Projects\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.xml
+E:\универ\бауманка\rsoi_lab1\lab1\bin\Debug\lab1.exe.config
+E:\универ\бауманка\rsoi_lab1\lab1\obj\Debug\lab1.exe
+E:\универ\бауманка\rsoi_lab1\lab1\obj\Debug\lab1.pdb
+E:\универ\бауманка\rsoi_lab1\lab1\bin\Debug\lab1.exe
+E:\универ\бауманка\rsoi_lab1\lab1\bin\Debug\lab1.pdb
+E:\универ\бауманка\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.dll
+E:\универ\бауманка\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.xml
+E:\универ\бауманка\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csprojResolveAssemblyReference.cache
+E:\универ\бауманка\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.AutenticationForm.resources
+E:\универ\бауманка\rsoi_lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\универ\бауманка\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csproj.GenerateResource.Cache
+E:\visual studio\rsoi_lab1\lab1\bin\Debug\lab1.exe.config
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\lab1.exe
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\lab1.pdb
+E:\visual studio\rsoi_lab1\lab1\bin\Debug\lab1.exe
+E:\visual studio\rsoi_lab1\lab1\bin\Debug\lab1.pdb
+E:\visual studio\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.dll
+E:\visual studio\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.xml
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csprojResolveAssemblyReference.cache
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csproj.GenerateResource.Cache
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.AutForm.resources
+E:\visual studio\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.Home.resources
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csprojResolveAssemblyReference.cache
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.AutForm.resources
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.Home.resources
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Маргарита\Desktop\rsoi_lab1\lab1\obj\Debug\rsoi_lab1.csproj.GenerateResource.Cache
